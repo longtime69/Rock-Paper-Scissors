@@ -1,0 +1,11 @@
+Your choice is rock. Computer Choice is Rock
+script.js:72 It's a tie
+script.js:71 Your choice is rock. Computer Choice is Paper
+script.js:72 You lose! paper  beats rock
+script.js:71 Your choice is rock. Computer Choice is Paper
+script.js:72 You lose! paper  beats rock
+script.js:71 Your choice is scissors. Computer Choice is Scissors
+script.js:72 You Tie!
+script.js:71 Your choice is l. Computer Choice is Rock
+script.js:72 Invalid Choice
+script.js:82 You Lose 0 To 3
